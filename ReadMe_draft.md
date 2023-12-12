@@ -17,7 +17,7 @@ pip install pandas scikit-learn imbalanced-learn sqlalchemy matplotlib seaborn
 Usage
 Clone the repository:
 git clone https://github.com/"/AGTrainor/Project_4".git
-cd bee-colonies-survival
+cd AGTrainor/Project_4
 
 Run the Jupyter Notebook:
 jupyter Save_The_Bees Model.ipynb
