@@ -9,7 +9,8 @@ This repository contains code for predicting the survival of bee colonies based 
 
 Files
 save_the_bees.db: SQLite database containing bee colonies data.
-bee_colonies.ipynb: Jupyter Notebook with the Python code for data analysis and model development.
+Save_The_Bees Model.ipynb: Jupyter Notebook with the Python code for data analysis and model development.
+save_the_bees_graphs.ipynb: Jupyter Notebook to export database for Tableau graphing.
 
 Dependencies
 Python 3.x
@@ -29,6 +30,9 @@ Follow the notebook to execute code cells and explore the analysis.
 
 Results
 The analysis provides insights into predicting bee colony survival, highlighting key features such as varroa mites, pesticides, and diseases. The Random Forest Classifier demonstrated improved performance over Logistic Regression.
+
+Tableau
+https://public.tableau.com/app/profile/daniel.thomas8568/viz/Save_The_Bees/SaveTheBees
 
 Recommendations
  *Monitor and manage varroa mites and pesticide usage.
