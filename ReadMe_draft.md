@@ -1,6 +1,10 @@
-Bee Colonies Survival Prediction
 
-Overview
+![Screenshot 2023-12-12 183329](https://github.com/AGTrainor/Project_4/assets/135156232/391e8510-121e-495b-aac2-0b1e0f641bea)
+
+
+Bee Colonies Survival Prediction Overview
+
+
 This repository contains code for predicting the survival of bee colonies based on various factors related to beekeeping practices and environmental conditions. The analysis involves data cleaning, feature engineering, and the application of machine learning models to make predictions. The models include logistic regression and a random forest classifier.
 
 Files
